@@ -1,0 +1,5 @@
+nombre_de_phrases=300000
+nombre_de_mots=7535392
+taille_du_vocabulaire=308153
+nombre_de_pos=52
+longueur_mn_phrases=25.11797333333333

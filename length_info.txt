@@ -1,0 +1,3 @@
+moyenne des longueurs des phrases : 24.11797333333333
+médiane des longueurs des phrases : 22.0
+écart-type des longueurs des phrases : 13.526183453512454
